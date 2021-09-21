@@ -1,0 +1,6 @@
+https://metafluidics.org/devices/minidrops/
+
+https://github.com/physnano/miniDrops
+
+
+https://github.com/MakerTobey/OpenMicrofluidics/tree/master/Minidrop%20build%20and%20test
